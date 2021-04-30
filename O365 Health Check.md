@@ -15,6 +15,7 @@ Probing Questions for meeting:
 - Have you been surprized by any recent changes to these products?
 - Have you or your team utilized any training resources recently?
 - How effective is training/communication about changes and new features for these products?
+- Do you have any needs to better protect or secure your team's content?
   
 
 **Notes**
